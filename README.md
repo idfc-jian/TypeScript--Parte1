@@ -25,4 +25,4 @@ The project uses a command-line interface to interact with the user. The project
 
 ## Credits
 
-This project was created by [Jian Elián Betancourth](https://github.com/idfc-jian).
+This project was created by [Jian Elián Betancourt](https://github.com/idfc-jian).
